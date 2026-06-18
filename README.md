@@ -1,4 +1,11 @@
-# XAENITHRA COMMAND CENTER
+# ⬛ XAENITHRA CMD
+
+> Frontend Architecture & Command Center
+
+```
+Initializing tactical UI protocols...
+```
+
 
 > **Shaastra 2026 | CTF Unit**
 >
@@ -58,3 +65,8 @@ To run this command center locally:
 ## Disclaimer
 
 This project is for educational purposes and CTF competition preparation only. All tools and strategies discussed are intended for use in authorized testing environments.
+
+---
+*Note: This is a legacy repository from my previous profile. I changed my GitHub account, so it has been pushed here lately.*
+
+**Contact:** [artix@outlook.in](mailto:artix@outlook.in) | `// EOF`
